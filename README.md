@@ -4,10 +4,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kotagiri%20Srihita&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Undergrad%20%7C%20ML%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+works+%F0%9F%A4%96;ML+%7C+Flask+%7C+Python+%7C+REST+APIs;Top+5%25+%40+GITAM+%E2%80%A2+CGPA+9.57%2F10;Open+Source+%7C+GSSoC+2026+Contributor" alt="Typing SVG" />
-</a>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+works+%F0%9F%A4%96;ML+%7C+Flask+%7C+Python+%7C+REST+APIs;Top+5%25+%40+GITAM+%E2%80%A2+CGPA+9.57%2F10;Open+Source+%7C+GSSoC+2026+Contributor" alt="Typing SVG" />
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srihita-kotagiri/)
