@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+works+%F0%9F%A4%96;ML+%7C+Flask+%7C+Python+%7C+REST+APIs;Top+5%25+%40+GITAM+%E2%80%A2+CGPA+9.57%2F10;Open+Source+%7C+GSSoC+2026+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+works+%F0%9F%A4%96;ML+%7C+Flask+%7C+Python+%7C+REST+APIs;Open+Source+%7C+GSSoC+2026+Contributor" alt="Typing SVG" />
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srihita-kotagiri/)
